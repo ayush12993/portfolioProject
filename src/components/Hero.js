@@ -73,7 +73,7 @@ export default function Hero() {
       <h1>Hello! My name is</h1>
       <h2>Ayush Jain.</h2>
       <p>Currently, I am a looking for opportunities. Connect me <a  href={contactInformation.linkedIn}><FaLinkedinIn /></a>.</p>
-      <p>Or Mail me at <a href={`mailto:${contactInformation.email}`}><AiFillMail /></a>.</p>
+      <p>Or Mail me at <a href='https://www.linkedin.com/in/ayush-jain-654617145/'><AiFillMail /></a>.</p>
       <span><Link href="/#contact"><a>Come say hi!</a></Link></span>
       
     </StyledHeroSection>
